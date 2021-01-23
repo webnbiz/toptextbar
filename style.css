@@ -1,0 +1,16 @@
+.survey-wrapper {
+    width: 100%;
+}
+.survey-div {
+    font-family: 'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif;
+    font-weight: 600;
+    display: block;
+    margin: 0 auto;
+    font-size: 13px;
+    height: 22px;
+    width: 290px;
+    text-align: center !important;
+    background-color: #e4410a;
+    border-radius: 0 0 4px 4px;
+}
+.survey-div a {color:white;}
